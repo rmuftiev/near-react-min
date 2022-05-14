@@ -13,7 +13,7 @@ import "erc721o/contracts/Libs/LibPosition.sol";
 import "./interfaces/ICore.sol";
 import "./interfaces/ISyntheticAggregator.sol";
 import "./interfaces/IRegistry.sol";
-import "./Oracles.sol";
+import "../Oracles.sol";
 
 contract DerivativeDepositFactory is LibDerivative, Ownable, Oracles {
     using SafeMath for uint256;
