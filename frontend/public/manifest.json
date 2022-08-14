@@ -1,0 +1,8 @@
+{
+  "short_name": "Salad.Finance",
+  "name": "Salad.Finance - Crosschain DeFi Aggregator",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
